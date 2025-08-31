@@ -1,0 +1,212 @@
+{
+  "kpis": {
+    "totalRevenue": 449812.75,
+    "totalUnits": 12115
+  },
+  "reps": [
+    {
+      "rep": "Andrew",
+      "revenue": 99315.75,
+      "units": 2693,
+      "avg_ticket": 71.71,
+      "share_of_sales_pct": 0.2208,
+      "hours_worked": 567.82,
+      "twe": 0.0278832911
+    },
+    {
+      "rep": "Gabriel",
+      "revenue": 61310.0,
+      "units": 1598,
+      "avg_ticket": 74.41,
+      "share_of_sales_pct": 0.1363,
+      "hours_worked": 339.4,
+      "twe": 0.0298807725
+    },
+    {
+      "rep": "Mason",
+      "revenue": 55477.0,
+      "units": 1501,
+      "avg_ticket": 90.5,
+      "share_of_sales_pct": 0.1233,
+      "hours_worked": 574.12,
+      "twe": 0.0194415561
+    },
+    {
+      "rep": "Rajah",
+      "revenue": 54904.25,
+      "units": 1418,
+      "avg_ticket": 85.79,
+      "share_of_sales_pct": 0.1221,
+      "hours_worked": 591.14,
+      "twe": 0.0177137228
+    },
+    {
+      "rep": "Sam",
+      "revenue": 51665.5,
+      "units": 1318,
+      "avg_ticket": 86.98,
+      "share_of_sales_pct": 0.1149,
+      "hours_worked": 549.66,
+      "twe": 0.0181756074
+    },
+    {
+      "rep": "Jackson",
+      "revenue": 45104.75,
+      "units": 1228,
+      "avg_ticket": 73.34,
+      "share_of_sales_pct": 0.1003,
+      "hours_worked": 523.74,
+      "twe": 0.0140417727
+    },
+    {
+      "rep": "Josiah",
+      "revenue": 37295.25,
+      "units": 1082,
+      "avg_ticket": 77.38,
+      "share_of_sales_pct": 0.0829,
+      "hours_worked": 514.68,
+      "twe": 0.0124649618
+    },
+    {
+      "rep": "Amir",
+      "revenue": 11367.0,
+      "units": 324,
+      "avg_ticket": 75.28,
+      "share_of_sales_pct": 0.0253,
+      "hours_worked": 553.44,
+      "twe": 0.0034372607
+    },
+    {
+      "rep": "Milton",
+      "revenue": 6857.0,
+      "units": 185,
+      "avg_ticket": 78.82,
+      "share_of_sales_pct": 0.0152,
+      "hours_worked": 526.3,
+      "twe": 0.0022828844
+    },
+    {
+      "rep": "Brandon",
+      "revenue": 5861.5,
+      "units": 161,
+      "avg_ticket": 66.61,
+      "share_of_sales_pct": 0.013,
+      "hours_worked": 296.36,
+      "twe": 0.0029287582
+    },
+    {
+      "rep": "Edwin",
+      "revenue": 4167.5,
+      "units": 118,
+      "avg_ticket": 66.15,
+      "share_of_sales_pct": 0.0093,
+      "hours_worked": 602.66,
+      "twe": 0.0010169662
+    },
+    {
+      "rep": "Melvin",
+      "revenue": 2824.75,
+      "units": 78,
+      "avg_ticket": 65.69,
+      "share_of_sales_pct": 0.0063,
+      "hours_worked": 556.72,
+      "twe": 0.0007410082
+    },
+    {
+      "rep": "Sadie",
+      "revenue": 2161.5,
+      "units": 68,
+      "avg_ticket": 72.05,
+      "share_of_sales_pct": 0.0048,
+      "hours_worked": 405.36,
+      "twe": 0.0008541154
+    },
+    {
+      "rep": "Keith",
+      "revenue": 1981.25,
+      "units": 55,
+      "avg_ticket": 79.25,
+      "share_of_sales_pct": 0.0044,
+      "hours_worked": 514.06,
+      "twe": 0.0006790363
+    },
+    {
+      "rep": "Precious",
+      "revenue": 1965.75,
+      "units": 71,
+      "avg_ticket": 51.73,
+      "share_of_sales_pct": 0.0044,
+      "hours_worked": 599.26,
+      "twe": 0.0003772471
+    },
+    {
+      "rep": "George",
+      "revenue": 1885.5,
+      "units": 49,
+      "avg_ticket": 110.91,
+      "share_of_sales_pct": 0.0042,
+      "hours_worked": 642.68,
+      "twe": 0.0007233985
+    },
+    {
+      "rep": "Kai",
+      "revenue": 1481.75,
+      "units": 47,
+      "avg_ticket": 52.92,
+      "share_of_sales_pct": 0.0033,
+      "hours_worked": 443.38,
+      "twe": 0.0003931733
+    },
+    {
+      "rep": "Sheree",
+      "revenue": 1391.0,
+      "units": 36,
+      "avg_ticket": 81.82,
+      "share_of_sales_pct": 0.0031,
+      "hours_worked": 483.1,
+      "twe": 0.0005237651
+    },
+    {
+      "rep": "Shaquan",
+      "revenue": 1342.5,
+      "units": 49,
+      "avg_ticket": 53.7,
+      "share_of_sales_pct": 0.003,
+      "hours_worked": 397.5,
+      "twe": 0.0004031992
+    },
+    {
+      "rep": "Matthew",
+      "revenue": 1239.75,
+      "units": 34,
+      "avg_ticket": 77.48,
+      "share_of_sales_pct": 0.0028,
+      "hours_worked": 492.72,
+      "twe": 0.0004334273
+    },
+    {
+      "rep": "Colbi",
+      "revenue": 197.75,
+      "units": 1,
+      "avg_ticket": 197.75,
+      "share_of_sales_pct": 0.0004,
+      "hours_worked": 308.24,
+      "twe": 0.000282041
+    },
+    {
+      "rep": "Alex",
+      "revenue": 15.75,
+      "units": 1,
+      "avg_ticket": 15.75,
+      "share_of_sales_pct": 0.0,
+      "hours_worked": 551.3,
+      "twe": 1.0003e-06
+    }
+  ],
+  "notes": [
+    "Prototype using July-Aug 2025 data",
+    "Seed attributions used for rep mapping",
+    "Timesheets OT/double OT ignored",
+    "Only matched rep names included"
+  ]
+}
