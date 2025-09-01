@@ -1,0 +1,14 @@
+{
+  "crmx": {
+    "base_url": "https://api.crm-x.example/v1/",
+    "api_key_env": "CRMX_API_KEY",
+    "sales_endpoint": "/sales",
+    "receipts_endpoint": "/receipts",
+    "location_ids": ["DTBK"],
+    "featured_categories": ["Flower", "Pre Rolls", "Vapes", "Edibles", "Concentrates"]
+  },
+  "timezone": "America/New_York",
+  "week_start_day": "monday",
+  "slow_mover": { "sell_through_max": 0.25, "min_on_hand": 30, "max_units": 5 },
+  "ui": { "currency": "USD" }
+}

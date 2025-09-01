@@ -1,0 +1,20 @@
+{
+  "name": "crm-x-weekly-highlights",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ingest": "node src/ingest_crmx.js --week last",
+    "process": "node src/transform.js && node src/rank.js",
+    "summarize": "node src/summarize.js",
+    "build": "npm run ingest && npm run process && npm run summarize",
+    "dev:sample": "node src/dev_sample.js"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "csv-parse": "^5.5.6",
+    "date-fns": "^3.6.0",
+    "date-fns-tz": "^2.0.0",
+    "openai": "^4.55.0"
+  }
+}
